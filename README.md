@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+- 😄 This is Shilong Liu, 刘世隆 in Chinese.
+- 🏫 I am a Ph.D. student at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+- 🏢 I am an intern of computer vision at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/).
+- 📫 Email: liusl20@mails.tsinghua.edu.cn; slongliu86@gmail.com
+- 📖 homepage: https://www.lsl.zone/
+
 
 <!--
 **SlongLiu/SlongLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
