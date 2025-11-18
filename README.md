@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 - 😄 This is Shilong Liu, 刘世隆 in Chinese.
-- 🏫 I am a Ph.D. student at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
-- 🏢 I am an intern of computer vision at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/).
+- 🏫 I am a Postdoc Fellow at Princeton AI Lab.
+- 🏫 I obtained my PhD from [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+- 🏢 Prev. ByteDance Seed, NVIDIA, Microsoft Research Redmond, IDEA-Research, Shengshu-tech.
 - 📫 Email: slongliu86@gmail.com; sl8264@princeton.edu
 - 📖 homepage: https://www.lsl.zone/
 - 💬 Open to collaborations. Wechat: SLONG_88
