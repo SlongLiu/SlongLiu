@@ -6,7 +6,7 @@
 - 🏢 Prev. ByteDance Seed, NVIDIA, Microsoft Research Redmond, IDEA-Research, Shengshu-tech.
 - 📫 Email: slongliu86@gmail.com; sl8264@princeton.edu
 - 📖 homepage: https://www.lsl.zone/
-- 💬 Open to collaborations. Wechat: SLONG_88
+- 💬 **Looking for collaborations and self-motivated interns excited about agent and multimodal AI research.** Contact me with my email: slongliu86@gmail.com and sl8264@princeton.edu.
 
 
 <!--
